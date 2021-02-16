@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rumspring.org/posts/origin/</loc>
-    <lastmod>2021-02-15T19:00:29-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rumspring.org/posts/</loc>
     <lastmod>2021-02-15T19:00:29-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://rumspring.org/</loc>
+    <lastmod>2021-02-15T19:00:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rumspring.org/posts/rumspring/</loc>
     <lastmod>2021-02-15T19:00:29-05:00</lastmod>
   </url>
   
