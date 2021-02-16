@@ -1,20 +1,20 @@
 baseURL = "https://rumspring.org"
 languageCode = "en-us"
-title = "Rumspring Crypto-Amish Electric Boogaloo"
+title = "Rumspring Crypto-Amish Electric Church Boogaloo"
 theme = "mainroad"
 [Author] # Used in authorbox
-  name = "Jack Profit"
-  bio = "Chief Rabblerouser"
+  #name = "Brother Jack"
+  #bio = "Chief Rabblerouser"
   avatar = "img/fa.jpg"
 
 [Params]
-  description = "Crypto-Amish Electric Boogaloo" # Site description. Used in meta description
+  description = "Crypto-Amish Electric Church Boogaloo" # Site description. Used in meta description
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
   authorbox = true # Show authorbox at bottom of pages if true
-  toc = true # Enable Table of Contents
+  toc = false # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   #mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
@@ -36,8 +36,8 @@ theme = "mainroad"
 
 [Params.logo]
   #image = "img/placeholder.png" # Logo image. Path relative to "static"
-  title = "Rumspring" # Logo title, otherwise will use site title
-  subtitle = "Crypto Amish Electric Boogaloo" # Logo subtitle
+  title = "Rumspring!" # Logo title, otherwise will use site title
+  subtitle = "A Crypto-Amish Church for the Electric Boogaloo" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
