@@ -1,30 +1,26 @@
 ---
-title: "Rumspring! A New Crypto Amish Church"
-date: 2021-02-15T19:00:29-05:00
+title: "Rumspring! A Crypto Amish Experiment"
+date: 2021-02-16T12:00:29-05:00
 draft: false
 ---
 
-The decline of Christianity in the west is accelerating and taking with it the entire American experiment. For thoughtful followers of Jesus we're all wondering "What can be done?"
+Last year I spent seven months in jail. With nothing else to do I read the bible a few times. I grew up in "bible-believing" churches but the whole thing always felt shallow. As I read the bible with fresh eyes I was shocked and angered by a startling reality: the modern evangelical church is built on lies. Over and over **the bible directly contradicted beliefs that I had been taught were gospel truths.** Later as I studied church history I realized most of these false beliefs have been completely made up in the last couple hundred years.
 
-**Rumspring is a new Austin, Texas based church, founded on crypto-amish principles, that is rethinking church in the decentralized age.**
+**Rumspring is an experimental new church that seeks to ask hard questions and recapture the spirit and truth of the early church.**
 
-Throughout the history of God’s people there has been only one answer to calamity: return to God’s word and obey. But today, even the most vocal “bible believing” churches have been reduced to adult daycares, worshipping at the altar of emotionalism and “niceness” while staunchly refusing to consider biblical perspectives that don’t fit their narrow conservative cultural traditions.
+It's time for radical action. Christianity is declining in the west and taking America with it. So-called "bible believing" churches have been reduced to an adult daycare, worshipping at the altar of emotionalism and “niceness” while staunchly refusing to consider biblical perspectives that don’t fit their conservative cultural traditions.
 
-The message of Jesus is not conservative but radical. A cursory glance at the New Testament destroys any notion of a safe-for-the-whole-family religion with a call for a radical spirit-empowered life. Young Christians see the emptiness of the modern church-- but the conservative church refuses to acknowledge or respond to their real grievances, becoming the very stumbling block that causes them to reject a biblically grounded living faith for the siren song of leftist progessive religion.
+The message of Jesus is not conservative but radical. A cursory glance at the New Testament destroys any pretense of a safe-for-the-whole-family religion with a call for a radical spirit-empowered life. Many Christians I know see and feel the emptiness of the modern church. Yet the church refuses to acknowledge or respond to true grievances. It has become the very stumbling block that causes people to reject a biblically grounded faith for the siren song of leftist progressive religion.
 
 Rob Dreher, in his foundational 2017 book, [The Benedict Option](https://www.amazon.com/dp/B01KUCY7XI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), made this urgent appeal:
 
 > Today, a new post-Christian barbarism reigns. Many believers are blind to it, and their churches are too weak to resist. Politics offers little help in this spiritual crisis. What is needed is the Benedict Option, a strategy that draws on the authority of Scripture and the wisdom of the ancient church. The goal: to embrace exile from the mainstream culture and construct a resilient counterculture.
 
-Rumspring is working out the implications of this call and implementing it in the real world.
+Rumspring is a new church that is seeking to work out the implications of this call: returning to the word, rediscovering church history, and taking real world action.
 
-No answers will come from the establishment church but from its dissidents. Christianity was brought to the west by the free church: puritans, congregationalists, separatists, anabaptists and non-conformists. These were people who believed, **1) the church should be separate from the state**, and **2) the local church acts under the headship of Jesus alone and not under political religious hierarchies.** It’s these free-thinking Christians that had the courage to cross a vast ocean in search of a City on a Hill. In stark contrast, authoritarian Christian groups like Catholicism, Presbyterianism, Episcopalism, Lutheranism, and Methodism are rapidly dying in a decentralized world. These traditions are structurally incapable of responding to the rapid changes happening in the west. Rumspring joins with the long, rich history of Christians who have embraced a decentralized faith rooted in the foundation of Jesus Christ alone.
+Join me over the next couple months to rediscover the old truths that have been forgotten as we explore what a biblical, decentralized, local church looks like in the digital age.
 
-In addition to this blog I am launching a youtube channel. I hope both venues can serve as companion pieces, with the blog focused on communicating to an older generation (the “conceptualizers” as Marshal McLuhan called those operating under a text based culture) and the youtube channel focused on communicating with digital natives.
-
-Over the next couple months we are going to explore the core principals of Rumspring. These are not static principles but the beginning of a conversation to explore what a biblical, decentralized, local church looks like in the digital age.
-
-### 17 Principles of the Rumspring Crypto-Amish Church ###
+### 18 Principles of the Rumspring Crypto Amish ###
 
 **1. Interactive gatherings.** The bible is clear that when God’s family gathers it must be an interactive gathering. Everyone has an opportunity to share. After someone speaks we debate to discern the truth. No topics are off limits and no pastor can ban topics from family discussion. (1 Cor 14:26-25)
 
@@ -32,7 +28,7 @@ Over the next couple months we are going to explore the core principals of Rumsp
 
 **3. Financial transparency.** All church finances made available to all members of the church via a member portal and real-time API.
 
-**4. Real male leadership.** While many conservatives churches theoretically hold to orthodox views on gender, in practice the church has been entirely turned over to effeminate men who value feelings over the truth.
+**4. Real male leadership.** While many conservatives churches theoretically hold to orthodox views on gender, in practice the church has been entirely turned over to effeminate men who value feelings over the truth. Men have left the church in droves and for good reason. 
 
 **5. Love feast.** Jesus gave his followers the Lord’s table as a meal. For the first couple hundred years of the church it was always practiced as a meal. Religious leaders turned an exciting, interactive meal into a vain ritual that can be controlled. Crackers and juice have nothing to do with what Jesus gave his people.
 
@@ -60,3 +56,4 @@ Over the next couple months we are going to explore the core principals of Rumsp
 
 **17. Open source infrastructure.** The church will make a concerted effort to invest in open source projects. 
 
+**18. Usury.** For the first 1,500 years of the church usury (charging interest for loans) was universally condemned by the church. 
