@@ -38,7 +38,7 @@ theme = "mainroad"
 [Params.logo]
   #image = "img/placeholder.png" # Logo image. Path relative to "static"
   title = "Rumspring!" # Logo title, otherwise will use site title
-  subtitle = "A Crypto-Amish Family for Central Texas. Jesus is King." # Logo subtitle
+  subtitle = "Central Texas Crypto-Amish Church. Jesus is King." # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
