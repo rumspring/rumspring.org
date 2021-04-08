@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rumspring Crypto-Amish Church</title>
+    <title>Rumspring Fellowship</title>
     <link>https://rumspring.org/</link>
-    <description>Recent content on Rumspring Crypto-Amish Church</description>
+    <description>Recent content on Rumspring Fellowship</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Feb 2021 12:00:29 -0500</lastBuildDate><atom:link href="https://rumspring.org/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,9 @@
       <pubDate>Tue, 16 Feb 2021 12:00:29 -0500</pubDate>
       
       <guid>https://rumspring.org/posts/welcome/</guid>
-      <description>Rumspring is a new crypto-Amish congregation in central Texas.
-Join us for fellowship every Sunday morning at 10am.
-We meet at 4200 Cortina Dr, Austin, TX 78749.
-We invite you to join us as we seek to follow Jesus in community.</description>
+      <description>Rumspring is a new crypto-Amish fellowship in central Texas.
+Join us for fellowship in South Austin every Sunday morning at 10am.
+We invite you to join us as we follow Jesus in community.</description>
     </item>
     
   </channel>

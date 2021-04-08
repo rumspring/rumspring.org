@@ -1,6 +1,6 @@
 baseURL = "https://rumspring.org"
 languageCode = "en-us"
-title = "Rumspring Crypto-Amish Church"
+title = "Rumspring Fellowship"
 theme = "mainroad"
 [Author] # Used in authorbox
   name = "The Brotherhood"
