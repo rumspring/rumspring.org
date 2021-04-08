@@ -1,16 +1,16 @@
 ---
-title: "Rumspring! A Crypto Amish Experiment"
+title: "Welcome to Rumspring!"
 date: 2021-02-16T12:00:29-05:00
-draft: false
+draft: true
 ---
 
-Last year I spent seven months in jail. With nothing else to do I read the bible a few times. I grew up in "bible-believing" churches but the whole thing always felt shallow. As I read the bible with fresh eyes I was shocked and angered by a startling reality: the modern evangelical church is built on lies. Over and over **the bible directly contradicted beliefs that I had been taught were gospel truths.** Later as I studied church history I realized most of these false beliefs have been completely made up in the last couple hundred years.
+Last year I spent seven months in jail. With nothing else to do I read the bible a few times. I grew up in evangelical "bible believing" churches, and even though the whole thing felt pretty shallow, I trusted Jesus at a young age and trusted the orthodox teachings of the church. But now as I read the bible with fresh eyes I was shocked and angered by a startling reality: the modern evangelical church is built on lies. Over and over **the bible directly contradicted beliefs that I had been taught were gospel truths.** Later as I studied church history I realized most of these false beliefs have been completely made up in the last couple hundred years.
 
-**Rumspring is an experimental new church that seeks to ask hard questions and recapture the spirit and truth of the early church.**
+**Rumspring is an experimental new church seeking to recapture the spirit and truth of the early church and establish a commune in Summer 2021.**
 
-It's time for radical action. Christianity is declining in the west and taking America with it. So-called "bible believing" churches have been reduced to an adult daycare, worshipping at the altar of emotionalism and “niceness” while staunchly refusing to consider biblical perspectives that don’t fit their conservative cultural traditions.
+It's time for radical action. Christianity is declining in the west and taking America with it. Churches have been reduced to an adult daycare, worshipping at the altar of emotionalism and “niceness” while staunchly refusing to consider biblical perspectives that don’t fit their conservative cultural traditions.
 
-The message of Jesus is not conservative but radical. A cursory glance at the New Testament destroys any pretense of a safe-for-the-whole-family religion with a call for a radical spirit-empowered life. Many Christians I know see and feel the emptiness of the modern church. Yet the church refuses to acknowledge or respond to true grievances. It has become the very stumbling block that causes people to reject a biblically grounded faith for the siren song of leftist progressive religion.
+The message of Jesus is not conservative but radical. A cursory glance at the New Testament destroys any pretense of a safe-for-the-whole-family religion with a call for a radical spirit-empowered life. Many Christians I know see and feel the emptiness of the modern church. Yet the church refuses to acknowledge or respond to true grievances. The church has become the very stumbling block that causes people to reject a biblically grounded faith for the siren song of leftist progressive religion.
 
 Rob Dreher, in his foundational 2017 book, [The Benedict Option](https://www.amazon.com/dp/B01KUCY7XI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), made this urgent appeal:
 
@@ -57,3 +57,8 @@ Join me over the next couple months to rediscover the old truths that have been 
 **17. Open source infrastructure.** The church will make a concerted effort to invest in open source projects. 
 
 **18. Usury.** For the first 1,500 years of the church usury (charging interest for loans) was universally condemned by the church. 
+
+**19. Food Health & Security.**
+
+**20. Head coverings.**
+

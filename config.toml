@@ -1,14 +1,14 @@
 baseURL = "https://rumspring.org"
 languageCode = "en-us"
-title = "Rumspring Crypto-Amish Electric Church Boogaloo"
+title = "Rumspring Crypto-Amish Church"
 theme = "mainroad"
 [Author] # Used in authorbox
-  name = "Brother Jack"
+  name = "The Brotherhood"
   bio = ""
   avatar = "img/fa.jpg"
 
 [Params]
-  description = "Crypto-Amish Electric Church Boogaloo" # Site description. Used in meta description
+  description = "Crypto-Amish Church" # Site description. Used in meta description
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -25,7 +25,7 @@ theme = "mainroad"
   #googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
   #customCSS = ["css/custom.css"] # Include custom CSS files
   #customJS = ["js/custom.js"] # Include custom JS files
-  CommentoURL = "http://comment.rumspring.org:8080"
+  #CommentoURL = "http://comment.rumspring.org:8080"
 
 [Params.style.vars]
   highlightColor = "#2f004d" # Override highlight color
@@ -38,7 +38,7 @@ theme = "mainroad"
 [Params.logo]
   #image = "img/placeholder.png" # Logo image. Path relative to "static"
   title = "Rumspring!" # Logo title, otherwise will use site title
-  subtitle = "A Crypto-Amish Church for the Electric Boogaloo" # Logo subtitle
+  subtitle = "A Crypto-Amish Family for Central Texas. Jesus is King." # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
@@ -53,11 +53,6 @@ theme = "mainroad"
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget
 
-
-[[Params.widgets.social.custom]]
-  title = "Youtube"
-  url = "https://www.youtube.com/channel/UCsgDGg-MwfPIkh0BlYnzLcg"
-
 [Params.widgets.social]
   # Enable parts of social widget
   #facebook = "username"
@@ -65,12 +60,22 @@ theme = "mainroad"
   #instagram = "username"
   #linkedin = "username"
   #telegram = "username"
-  github = "rumspring"
-  email = "yo@rumspring.org"
+  #email = "hi@rumspring.org"
+  #github = "rumspring"
 
 # Custom social links
 #[[Params.widgets.social.custom]]
 #  title = "Youtube"
-#  url = "https://youtube.com/user/rumspring"
-#  icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
+#  url = "https://www.youtube.com/channel/UCsgDGg-MwfPIkh0BlYnzLcg"
+#  icon = "svg/author.svg" # Optional. Path relative to "layouts/partials"
+
+#[[Params.widgets.social.custom]]
+#  title = "Github"
+#  url = "https://github.com/rumspring"
+#  icon = "svg/github.svg" # Optional. Path relative to "layouts/partials"
+
+[[Params.widgets.social.custom]]
+  title = "hi@rumspring.org"
+  url = "mailto:hi@rumspring.org"
+  icon = "svg/email.svg" # Optional. Path relative to "layouts/partials"
 
