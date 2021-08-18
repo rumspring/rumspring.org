@@ -8,7 +8,7 @@ theme = "mainroad"
   avatar = "img/fa.jpg"
 
 [Params]
-  description = "Crypto-Amish Church" # Site description. Used in meta description
+  description = "Rumspring Christian Fellowship" # Site description. Used in meta description
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -38,7 +38,7 @@ theme = "mainroad"
 [Params.logo]
   #image = "img/placeholder.png" # Logo image. Path relative to "static"
   title = "Rumspring!" # Logo title, otherwise will use site title
-  subtitle = "Central Texas Crypto-Amish Church. Jesus is King." # Logo subtitle
+  subtitle = "Central Texas Christian Fellowship. Jesus is King." # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
@@ -70,8 +70,8 @@ theme = "mainroad"
 #  icon = "svg/author.svg" # Optional. Path relative to "layouts/partials"
 
 #[[Params.widgets.social.custom]]
-#  title = "Github"
-#  url = "https://github.com/rumspring"
+#  title = "Our History"
+#  url = "/posts/about/"
 #  icon = "svg/github.svg" # Optional. Path relative to "layouts/partials"
 
 [[Params.widgets.social.custom]]
