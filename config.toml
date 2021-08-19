@@ -37,8 +37,8 @@ theme = "mainroad"
 
 [Params.logo]
   #image = "img/placeholder.png" # Logo image. Path relative to "static"
-  title = "Rumspring!" # Logo title, otherwise will use site title
-  subtitle = "Central Texas Christian Fellowship. Jesus is King." # Logo subtitle
+  title = "Rumspring" # Logo title, otherwise will use site title
+  subtitle = "Central Texas Christian Fellowship" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
