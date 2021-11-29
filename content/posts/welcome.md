@@ -4,7 +4,7 @@ date: 2021-02-16T12:00:29-05:00
 draft: false
 ---
 
-We are a new Amish Christian fellowship seeking to understand and follow
+We are a new Christian fellowship seeking to understand and follow
 the teachings of Jesus. 
 
 Join us for fellowship in South Austin every Sunday morning at 10am.
@@ -15,4 +15,4 @@ Learn more about [our beliefs](/posts/beliefs/) and [our history](/posts/about/)
 
 We invite you to join us as we follow Jesus in community.
 
-![Rumspring Kids](/img/teens.jpeg)
+

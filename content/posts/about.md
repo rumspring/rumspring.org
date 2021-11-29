@@ -14,6 +14,3 @@ Many Mennonites, because of the fierce intensity of persecution, migrated to Rus
 Fatihful Mennonites believe that no person can be accepted by God except through confessing His Son, Jesus Christ, as master, and trusting Him as Saviour from sin. This continued trust in Christ brings from Him power over sin in the present, and confident hope of heaven in the future.
 
 Faithful Mennonites believe that the only spiritually successful life, the life acceptable to God, is that lived by the power of God in obedience to the Holy Scriptures. Such a life is possible only through a continuing fellowship in Christ.
-
-For more information on the Beachy Amish, Amish Mennonites and other similiar Amish and Mennonite groups, [click here](http://gracemennonitefellowship.org/amishmennonites.htm).
-
